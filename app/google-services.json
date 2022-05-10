@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "726556074749",
+    "project_id": "onktrth-87b44",
+    "storage_bucket": "onktrth-87b44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726556074749:android:00414770e5697efcc95494",
+        "android_client_info": {
+          "package_name": "com.example.onktrth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726556074749-uohh83ddlj5pmk8u7ctqct61i7knqphe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.onktrth",
+            "certificate_hash": "7917cbe522c75ece37c250e17ce704962e1f3d26"
+          }
+        },
+        {
+          "client_id": "726556074749-9coreivu5f4olfmt9kjt4j21gfu4vmqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBILZzN_X0Go7TsxP_yiQVU6d763igzEZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726556074749-9coreivu5f4olfmt9kjt4j21gfu4vmqv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
